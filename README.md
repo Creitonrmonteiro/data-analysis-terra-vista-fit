@@ -16,7 +16,7 @@ Baseando-se nisso, definimos a seguintes insights:
     - 1 gráfico de receitas por plano;
   - 1 tabela com os dados (data, plano, aluno e valor de adesão);
 
-## Resultado da visualização dos dados
+## Resultado da visualização dos dados gerados com uso do Looker Studio
   - Filtro de período: filtro que ao selecionado incorre sobre todos os resultados;
   - Gráfico de quantidade total de adesões para o período;
   - Gráfico de receita pela meta;
